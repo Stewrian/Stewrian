@@ -1,4 +1,4 @@
-<img src="C:\Users\Stewrian\Desktop\Stewrian\image\top.jpeg" alt="top" />
+<img src="./image/top.jpeg" alt="top" />
 
 <p align="center">
     <a href="https://github.com/Stewrian" target="_blank" style="display: inline-block;">
